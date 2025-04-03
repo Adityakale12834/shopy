@@ -46,14 +46,14 @@ li > a:hover {
 .content {
   padding: 10px 0;
 }
-
+/* 
 .text-gray-700 {
   font-size: 18px;
 }
 
 .text-orange-500 {
   font-size: 20px;
-}
+} */
 
 /* Navigation and Pagination */
 .swiper-pagination {
